@@ -3,7 +3,7 @@
 ### Clone this repo:
 
 ```bash
-git clone https://github.com/iniadittt/tot-typescript-basic
+git clone https://github.com/iniadittt/tot-typescript-basic.git
 
 cd tot-typescript-basic
 ```
