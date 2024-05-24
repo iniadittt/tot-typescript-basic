@@ -1,0 +1,33 @@
+###
+
+GET http://localhost:3000/users
+Content-Type: application/json
+
+###
+
+GET http://localhost:3000/users/e080bf6a-988b-4d00-98e8-dba6cd19a05e
+Content-Type: application/json
+
+###
+
+POST http://localhost:3000/users
+Content-Type: application/json
+
+{
+  "name": "Aditya",
+  "email": "aditya@gmail.com"
+}
+
+###
+
+PATCH http://localhost:3000/users/e080bf6a-988b-4d00-98e8-dba6cd19a05e
+Content-Type: application/json
+
+{
+    "name": "Bayu"
+}
+
+###
+
+DELETE http://localhost:3000/users/e080bf6a-988b-4d00-98e8-dba6cd19a05e
+Content-Type: application/json
