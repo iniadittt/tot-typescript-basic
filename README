@@ -1,0 +1,21 @@
+# ToT Typescript Basic
+
+### Clone this repo:
+
+```bash
+git clone https://github.com/iniadittt/tot-typescript-basic
+
+cd tot-typescript-basic
+```
+
+### Download packages
+
+```bash
+npm install
+```
+
+### Run the app
+
+```bash
+npm run start
+```
